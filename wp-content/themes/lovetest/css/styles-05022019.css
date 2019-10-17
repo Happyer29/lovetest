@@ -1,5 +1,9 @@
 @import "reset.css";
 
+html{
+    zoom: 3
+}
+
 body {
     font-family: 'Open Sans', Verdana , sans-serif;
     font-size: 13px;
@@ -370,7 +374,7 @@ ul.zodiac-list li.zodiac-title-page a {
 
 @media (min-width:862px) and (min-height:632px) {
     .ui-wrap {
-        height: 60vh;
+        /* height: 60vh; */
     }
 }
 
