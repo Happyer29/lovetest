@@ -92,8 +92,8 @@ li {
 }
 
 .header {
-    height: 45px;
-    margin-top: 25px;
+    height: 70px;
+    padding-top: 25px;
     border-bottom: 1px solid #ddd;
     position: fixed;
     z-index: 4;
