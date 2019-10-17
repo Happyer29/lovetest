@@ -51,6 +51,9 @@ img.emoji {
       // Sends event to client
       vkConnect.send('VKWebAppInit');
       vkConnect.send("VKWebAppJoinGroup", {"group_id": 187677431});
+      if(window.location.hash.indexOf("mobile_android") > -1){
+        document.getElementsByTagName("html").style.zoom = 1
+      }
     </script> 
 </head>
 
