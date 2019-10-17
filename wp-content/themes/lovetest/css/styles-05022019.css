@@ -1,9 +1,5 @@
 @import "reset.css";
 
-html{
-    zoom: 3
-}
-
 body {
     font-family: 'Open Sans', Verdana , sans-serif;
     font-size: 13px;
