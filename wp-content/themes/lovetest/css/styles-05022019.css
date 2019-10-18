@@ -107,6 +107,7 @@ li {
 
 
 .header-wrap {
+    padding-top: 25px;
     max-width: 1200px;
     margin: 0 auto;
     font-weight: 400;
@@ -1447,7 +1448,7 @@ a.fullZodiacDescrLink:active {
         position: absolute;
         top: 0;
         left: 0;
-        margin-top: 45px;
+        margin-top: 70px;
         padding-left: 0;
         background-color: #333333;
         height: calc(100vh - 45px);
